@@ -59,27 +59,5 @@ Follow any on-screen prompts or check the top of `LibraryManagement.py` for comm
 
 Add a license (for example, MIT) to the project root if you plan to make this public.
 
-## Uploading to GitHub
 
-If you haven't initialized a git repo in this folder yet, run:
 
-```powershell
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo>.git
-git push -u origin main
-```
-
-Replace the remote URL with your repository URL.
-
----
-
-If you want, I can also:
-
-- create a `requirements.txt` if external packages are used
-- add a `LICENSE` file (e.g., MIT)
-- include a short usage walkthrough or screenshots
-
-Tell me which of these you'd like me to add.
